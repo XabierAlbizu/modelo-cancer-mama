@@ -1,0 +1,5 @@
+[core]
+    remote = s3remote
+['remote "s3remote"']
+    url = s3://modelo-cancer-mama
+    endpointurl = https://dagshub.com/api/v1/repo-buckets/s3/XabierAlbizu
